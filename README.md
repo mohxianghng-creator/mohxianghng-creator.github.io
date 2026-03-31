@@ -1,5 +1,5 @@
 # Moh Xiang Hng | Actuarial & Data
-Actuarial Science student at APU | Passionate about risk management, financial modelling, and insurance analytics.
+`Actuarial Science student at APU | Passionate about risk management, financial modelling, and insurance analytics.`
 
 Welcome to my personal website repository.
 
